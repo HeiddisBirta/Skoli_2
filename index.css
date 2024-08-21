@@ -1,4 +1,4 @@
-.bungee-tint-regular {
+.card_bungee-tint-regular {
   font-family: "Bungee Tint", sans-serif;
   font-weight: 400;
   font-style: normal;
@@ -6,3 +6,11 @@
 img {
   width: 300px;
 }
+.card {
+  background-color: #EEEEEE;
+  padding: 50px;
+  width: 500px;
+  margin: 25px auto;
+  border-radius: 5px;
+  border: 1px solid #EAEAEA;
+  box-shadow: 0 0 16px rgba(0, 0, 0, 0.1);
